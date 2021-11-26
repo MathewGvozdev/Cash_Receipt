@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cash_Receipt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cash_Receipt_jar</output-path>
+    <root id="archive" name="Cash_Receipt.jar">
+      <element id="module-output" name="Cash_Receipt" />
+    </root>
+  </artifact>
+</component>
